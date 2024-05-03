@@ -11,7 +11,7 @@ O jogo é uma aventura interativa onde você, o jogador, começa em um local e p
 1. **Começando**: Clone o repositório para o seu ambiente local.
 
 ```bash
-git clone <link-do-repositório>
+git clone https://github.com/anabrandt/jogo-de-escolhas
 ```
 
 2. **Instalando Dependências**: Navegue até o diretório do projeto e instale as dependências.
